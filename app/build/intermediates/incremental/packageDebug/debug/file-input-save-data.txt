@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 14 03:46:57 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Yau Tong\\Downloads\\DroidCafeChallenge\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
